@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # PerformaAI: Real-Time AI Mock Interviewer & Performance Analyzer
 
 PerformaAI is an advanced AI-driven mock interview system that provides real-time analysis of interview performance including facial expressions, speech patterns, content relevance, and more.
