@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PerformaAI: Real-Time AI Mock Interviewer & Performance Analyzer
 
 PerformaAI is an advanced AI-driven mock interview system that provides real-time analysis of interview performance including facial expressions, speech patterns, content relevance, and more.
@@ -230,3 +231,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 Built with ❤️ for better interview experiences. Copyright © 2024 Hashim. 
+=======
+# Mock_Interview_AI
+An AI-powered mock interview platform built with React.js and styled using Tailwind CSS. This tool simulates real-time interview sessions, analyzing voice, facial expressions, and textual responses to provide instant feedback. Ideal for students and professionals to prepare for job interviews with intelligent, automated insights.
+>>>>>>> cf005ba6efd6e97b66d0b9085c333f2d9367f24b
