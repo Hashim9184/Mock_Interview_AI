@@ -218,10 +218,6 @@ docker run -p 3000:3000 performa-ai
 
 We welcome contributions to PerformaAI! Please see our CONTRIBUTING.md file for guidelines on how to contribute.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - This project was created as a demonstration of AI-driven interview preparation tools
@@ -234,4 +230,3 @@ Built with ❤️ for better interview experiences. Copyright © 2024 Hashim.
 =======
 # Mock_Interview_AI
 An AI-powered mock interview platform built with React.js and styled using Tailwind CSS. This tool simulates real-time interview sessions, analyzing voice, facial expressions, and textual responses to provide instant feedback. Ideal for students and professionals to prepare for job interviews with intelligent, automated insights.
->>>>>>> cf005ba6efd6e97b66d0b9085c333f2d9367f24b
